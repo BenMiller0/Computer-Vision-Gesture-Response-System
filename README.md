@@ -21,7 +21,7 @@ Read the project writeup: https://docs.google.com/document/d/1kpoB31zEmDLjaXF0QD
 
 📡 Ultrasonic Sensors — Measure distances and sends to aurdino
 
-🚀 Project Features
+## 🚀 Project Features
 Pose estimation with PyTorch 
 
 Real-time Distance Sensing using ultrasonic sensors
@@ -29,3 +29,11 @@ Real-time Distance Sensing using ultrasonic sensors
 Reaction Logic Move or trigger actions based on gestures and proximity
 
 Star Wars-inspired behavior logic (Force push/pull concepts, alert levels, and distance-based reactions!)
+
+
+## Directory Structure
+python - includes all of the show-ready python program(s) that are to run the the RPI 5
+
+aurdino - includes all of the show-ready Aurdino scripts(.ino) to run the the Aurdino Unos
+
+testScripts - testing/proof on concept code for future refernce and development
