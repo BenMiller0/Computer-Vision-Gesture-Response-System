@@ -17,9 +17,9 @@ Read the project writeup: https://docs.google.com/document/d/1kpoB31zEmDLjaXF0QD
 
 💻 Raspberry Pi 5 - The base of hardware operations
 
-🌊 Arduino — Handling sensor data from ultrasonic sensors
+🌊 Arduino - Handling sensor data from ultrasonic sensors
 
-📡 Ultrasonic Sensors — Measure distances and sends to aurdino
+📡 Ultrasonic Sensors - Measure distances and sends to aurdino
 
 ## 🚀 Project Features
 Pose estimation with PyTorch 
