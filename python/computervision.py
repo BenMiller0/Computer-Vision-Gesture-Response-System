@@ -1,4 +1,10 @@
 # Code based off of: https://github.com/cweim/rpi-ai-camera/blob/main/imx500_pose_estimation_higherhrnet_demo.py
+# From offical RPI github page
+
+# This script uses the training dataset COCO (KeyPoints)
+
+# To run this script on in linux/bash:
+# python imx500_pose_estimation_higherhrnet_demo.py --model /usr/share/imx500-models/imx500_network_higherhrnet_coco.rpk
 
 import argparse
 import sys
