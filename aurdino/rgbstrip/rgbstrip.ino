@@ -22,11 +22,9 @@ void fadeall() {
 
 void loop() {
   if (digitalRead(BUTTON_PIN) == LOW) {
-    // Debounce delay
-    delay(50);
+    delay(50);// Debounce delay
     if (digitalRead(BUTTON_PIN) == LOW) {
       Serial.println("Button pressed");
-
       delay(3000); // Wait 3 secs before the animation runs
 
       // Run the back-and-forth animation 5 times

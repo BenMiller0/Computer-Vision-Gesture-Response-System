@@ -5,7 +5,6 @@ const int IN1 = 6; // Motor direction control pin 1
 const int IN2 = 7; // Motor direction control pin 2
 
 int speed = 150; // range from 0 (stop) to 255 (max speed)
-
 Servo myservo;
 
 void setup(){           
@@ -45,7 +44,6 @@ void right(int speed, int distance, int angle) {
   stop();
 }
 
-// Distance in feet
 void forward(int speed, int distance){
   digitalWrite(IN1, HIGH); // Forward rotation high
   digitalWrite(IN2, LOW);
