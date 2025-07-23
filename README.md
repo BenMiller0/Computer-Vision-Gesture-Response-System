@@ -20,13 +20,13 @@ Read the project writeup: https://docs.google.com/document/d/1kpoB31zEmDLjaXF0QD
 📡 Ultrasonic Sensors - Measure distances and sends to aurdino
 
 ## 🚀 Project Features
-Pose estimation with PyTorch 
+Pose estimation 
 
 Real-time Distance Sensing using ultrasonic sensors
 
 Reaction Logic Move or trigger actions based on gestures and proximity
 
-Star Wars-inspired behavior logic (Force push/pull concepts, alert levels, and distance-based reactions!)
+Star Wars-inspired behavior logic (Force push/pull concepts)
 
 
 ## Directory Structure
