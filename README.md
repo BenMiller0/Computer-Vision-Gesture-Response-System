@@ -20,18 +20,18 @@ Read the project writeup: https://docs.google.com/document/d/1kpoB31zEmDLjaXF0QD
 📡 Ultrasonic Sensors - Measure distances and sends to aurdino
 
 ```
-├── aurdino              # Aurdino code
-│   ├── droid            # Runs the mouse droid animatronic
-│   ├── rgbstrip         # Runs rgb stripe "scanner"
-│   └── ultrasonic1      # Runs ultrasonic sensor that moves rock
-├── python               # Python code
-│   ├── scene2_tv        # Will run the media and sensors of scene 2 
-│   └── scene3_tv        # Code that will run the media and sensors of scene 3
-├── test_scripts         # Contains all test code 
-│   └── test code        # Test code
-├── computervision.py    # Runs computer vision program
-├── imx500_network_higherhrnet_coco.rpk  # COCO model
-└── README.md            # What your currently reading!
+├── aurdino                             # Aurdino code
+│   ├── droid                           # Runs the mouse droid animatronic
+│   ├── rgbstrip                        # Runs rgb stripe "scanner"
+│   └── ultrasonic1                     # Runs ultrasonic sensor that moves rock
+├── python                              # Python code
+│   ├── scene2_tv                       # Will run the media and sensors of scene 2 
+│   └── scene3_tv                       # Code that will run the media and sensors of scene 3
+├── test_scripts                        # Contains all test code 
+│   └── test code                       # Test code
+├── computervision.py                   # Runs computer vision program
+├── imx500_network_higherhrnet_coco.rpk # COCO model
+└── README.md                           # What your currently reading!
 ```
 
 ## 🚀 Project Features
