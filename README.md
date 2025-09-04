@@ -11,6 +11,8 @@ Read the project writeup: https://docs.google.com/document/d/1kpoB31zEmDLjaXF0QD
 ## ⚙️ Tech Stack
 🐍 Python
 
+👋 COCO (KeyPoints) dataset
+
 🧠 Raspberry Pi AI Camera - Visual inputs and on board AI accelerator
 
 💻 Raspberry Pi 5 - The base of hardware operations
